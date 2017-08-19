@@ -1495,6 +1495,7 @@ function afterSync(){
 		localStorage.opProductStr=''
 }
 function check_user() {	
+	alert ('test')
 	var cid=$("#cid").val().toUpperCase();
 	cid=$.trim(cid);
 	

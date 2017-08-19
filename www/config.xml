@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.yeapps.pharmaRX"
-        version   = "4.0.20">
+        version   = "4.0.19">
 
     <name>SmartViewRX</name>
 
