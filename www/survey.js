@@ -1508,7 +1508,7 @@ function check_user() {
 	//var  apipath_base_photo_dm='http://127.0.0.1:8000/demo/syncmobile_417_new_rx/dmpath?CID='+cid +'&HTTPPASS=e99business321cba'
 
 
-
+	alert ('1')
    var apipath_base_photo_dm ='http://e2.businesssolutionapps.com/welcome/dmpath_prescription/get_path?CID='+cid +'&HTTPPASS=e99business321cba'
  
 	
