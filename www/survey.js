@@ -538,14 +538,14 @@ function page_market() {
 function page_market_ret() {
 	
 	if (localStorage.doctor_flag==1) {addMarketList();}else{addMarketList();}
-	if (localStorage.doctor_flag==1){
-		$("#addDocanc").show();
-		$("#blankAnc").hide();
-	}
-	else{
-		$("#addDocanc").hide();
-		$("#blankAnc").show();
-	}
+	//if (localStorage.doctor_flag==1){
+//		$("#addDocanc").show();
+//		$("#blankAnc").hide();
+//	}
+//	else{
+//		$("#addDocanc").hide();
+//		$("#blankAnc").show();
+//	}
 	$.afui.loadContent("#page_market_ret",true,true,'right');
 }
 function page_market_ret_doc() {
