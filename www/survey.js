@@ -11607,9 +11607,12 @@ function prescription_submit(){
 											}
 								}
 }
-						});			 
-				
+						});		
 						
+							 
+				
+		$("#wait_image_prescription").hide();
+		$("#btn_prescription_submit").show();				
 //		}pic else
 	}
 //$.afui.loadContent("#page_confirm_visit_success",true,true,'right');
